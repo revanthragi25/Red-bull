@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "tag": "F1 • LIVE",
+    "title": "KL RAHUL CLASS IN CRICKET",
+    "description": " KL Rahul is among the most highly rated opening batsmen in India's current set-up",
+    "image": "https://img.redbull.com/images/c_fill,g_auto,w_1800,h_819/q_auto,f_jpg/redbullcom/2026/3/31/vs5hkit6q3puvpnzpgtl/kl-rahul",
+    "buttonOneText": "Explore the Sports",
+    "buttonOneLink": "/sports",
+    "buttonTwoText": "Read the Story",
+    "buttonTwoLink": "/klrahul"
+  },
+  {
+    "id": 2,
+    "tag": "LATEST STORIES",
+    "title": "BEYOND THE ORDINARY",
+    "description": "Discover athletes, adventures, innovation and stories that push beyond limits.",
+    "image": "https://img.redbull.com/images/c_fill,g_auto,w_1800,h_819/q_auto,f_jpg/redbullcom/2025/12/2/cgsnlhs3jjm6n2nvnqbz/arvid-lindblad-2025",
+    "buttonOneText": "View Stories",
+    "buttonOneLink": "/videos",
+    "buttonTwoText": "Meet Athletes",
+    "buttonTwoLink": "/athletes"
+  },
+  {
+    "id": 3,
+    "tag": "WINGS EARNED",
+    "title": "ATHLETES WHO DEFINE ENERGY",
+    "description": "From skateboarding to motorsport, experience the people who inspire movement.",
+    "image": "https://img.redbull.com/images/c_fill,g_auto,w_1800,h_819/q_auto,f_jpg/redbullcom/2026/5/4/pjsce9lbpohuhr3x1nnu/red-bull-bc-one-cypher-india-2025",
+    "buttonOneText": "See Athletes",
+    "buttonOneLink": "/athletes",
+    "buttonTwoText": "Shop Drinks",
+    "buttonTwoLink": "/products"
+  }
+]

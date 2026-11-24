@@ -1,0 +1,113 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: var(--redbull-blue);
+  color: #fff;
+  padding: 5px 0;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+}
+
+.logo-icon {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  width: 44px;
+  height: 44px;
+  justify-content: center;
+  position: relative;
+}
+
+.logo-icon::before {
+  content: '';
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background: var(--redbull-yellow);
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.logo-icon span {
+  width: 14px;
+  height: 10px;
+  background: var(--redbull-red);
+  border-radius: 20px;
+  z-index: 2;
+}
+
+.navbar-logo h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.navbar-links a {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.05rem;
+  position: relative;
+}
+
+.navbar-links a.active::after,
+.navbar-links a:hover::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -7px;
+  width: 100%;
+  height: 3px;
+  background: var(--redbull-yellow);
+}
+
+.shop-btn {
+  background: var(--redbull-red);
+  color: #fff;
+  padding: 12px 22px;
+  border-radius: 70px;
+  font-size: 1rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+@media (max-width: 992px) {
+  .navbar-container {
+    flex-direction: column;
+  }
+
+  .navbar-links {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar-logo h2 {
+    font-size: 1.5rem;
+  }
+
+  .navbar-links a {
+    font-size: 0.95rem;
+  }
+}

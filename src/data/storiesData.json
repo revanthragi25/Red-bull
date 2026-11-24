@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "category": "Adventure",
+    "title": "Inside the Mind of a Big Mountain Skier",
+    "duration": "12 min read",
+    "image": "https://img.redbull.com/images/c_crop,x_0,y_0,h_2560,w_3200/c_fill,g_auto,w_450,h_360/q_auto,f_auto/redbullcom/2025/9/25/vsdbjbql3j0crxg2ltvd/sandro-dias-red-bull-building-drop-record-drop-in"
+  },
+  {
+    "id": 2,
+    "category": "Faster",
+    "title": "Falling Faster: The Physics of Freefall",
+    "duration": "06 min",
+    "image": "https://img.redbull.com/images/c_fill,g_auto,w_450,h_425/q_auto,f_auto/redbullcom/2022/4/6/hfo5zz3fvqfmubsqsjqi/red-bull-64-bars"
+  },
+  {
+    "id": 3,
+    "category": "Fast Tracks",
+    "type": "Article",
+    "title": "First Tracks: A Snowboarder's Winter Diary",
+    "duration": "08 min",
+    "image": "https://img.redbull.com/images/c_crop,x_275,y_0,h_1600,w_1867/c_fill,g_auto,w_450,h_392/q_auto,f_auto/redbullcom/2025/9/26/aps3d0rbkpybdpefghio/b-girl-bar-b-at-red-bull-bc-one-cypher-india-in-2025"
+  }
+  ,
+   {
+    "id": 4,
+    "category": "Lyrics",
+    "type": "Video",
+    "title": "Lyrics to ‘43 Ki Hawa’ by Vijay DK x Karan Kanchan",
+    "duration": "12 min read",
+    "image": "https://img.redbull.com/images/c_crop,x_0,y_212,h_1645,w_1920/c_fill,g_auto,w_450,h_392/q_auto,f_auto/redbullcom/2025/9/29/w0hkhkvssnyggtv5q2ia/vijay-dk-in-the-red-bull-64-bars-studio"
+  },
+  {
+    "id": 5,
+    "category": "Gaming",
+    "type": "Article",
+    "title": "How Jonathan Gaming became the master of his universe",
+    "duration": "06 min",
+    "image": "https://img.redbull.com/images/c_fill,g_auto,w_450,h_392/q_auto,f_auto/redbullcom/2024/9/25/okfqxzrfayvblasrtul9/jonathan-gaming"
+  },
+  {
+    "id": 6,
+    "category": "Record",
+    "type": "Article",
+    "title": "B-Boy Flying Machine: Breaking records with Red Bull BC One India wins",
+    "duration": "08 min",
+    "image": "https://img.redbull.com/images/c_crop,x_68,y_0,h_1600,w_2000/c_fill,g_auto,w_450,h_360/q_auto,f_auto/redbullcom/2025/9/26/tert86vaaoimw7ijkg7t/b-boy-flying-machine-at-red-bull-bc-one-cypher-india-2025"
+  }
+]

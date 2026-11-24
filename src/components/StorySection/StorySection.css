@@ -1,0 +1,96 @@
+.story-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 34px;
+}
+
+.view-all-link {
+  font-size: 1.2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.story-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 22px;
+}
+
+.story-card {
+  position: relative;
+  min-height: 560px;
+  overflow: hidden;
+  border-radius: 0;
+}
+
+.story-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.story-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.15));
+}
+
+.story-badges {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  gap: 10px;
+  z-index: 2;
+}
+
+.story-badges span {
+  background: var(--redbull-red);
+  color: #fff;
+  padding: 8px 14px;
+  font-size: 0.95rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.story-content {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  z-index: 2;
+}
+
+.story-content h3 {
+  font-size: clamp(1.6rem, 2.5vw, 3rem);
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  max-width: 90%;
+}
+
+.story-content p {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #ddd;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media (max-width: 992px) {
+  .story-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .story-card {
+    min-height: 440px;
+  }
+}
+
+@media (max-width: 576px) {
+  .story-top {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

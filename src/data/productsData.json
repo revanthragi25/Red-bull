@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Red Bull Energy Drink",
+    "flavor": "Original Energy",
+    "price": 125,
+    "image": "https://img.redbull.com/images/c_limit,w_4000/e_trim/c_limit,w_375/q_auto,f_auto/redbullcom/2026/3/20/oiyohcx4t3ylhzlnjvqn/red-bull-energy-drink",
+    "buyLink": "https://blinkit.com/prn/red-bull-energy-drink-250-ml/prid/385"
+  },
+  {
+    "id": 2,
+    "name": "Red Bull Sugarfree",
+    "flavor": "Sugarfree",
+    "price": 130,
+    "image": "https://img.redbull.com/images/c_limit,w_4000/e_trim/c_limit,w_375/q_auto,f_auto/redbullcom/2023/8/21/xxjnj0gedzaeglcj550a/red-bull-sugarfree",
+    "buyLink": "https://blinkit.com/prn/red-bull-energy-drink-sugar-free-250-ml/prid/386"
+  },
+  {
+    "id": 3,
+    "name": "Red Bull Pink Edition",
+    "flavor": "White Peach",
+    "price": 145,
+    "image": "https://img.redbull.com/images/c_limit,w_4000/e_trim/c_limit,w_375/q_auto,f_auto/redbullcom/2026/1/26/fnrwphbh9enn79pm8wdh/red-bull-peach-edition-image",
+    "buyLink": "https://blinkit.com/prn/red-bull-the-pink-edition-energy-drink/prid/744430"
+  },
+  {
+    "id": 4,
+    "name": "Red Bull Yellow Edition",
+    "flavor": "Tropical",
+    "price": 145,
+    "image": "https://img.redbull.com/images/c_limit,w_4000/e_trim/c_limit,w_375/q_auto,f_auto/redbullcom/2024/5/31/ts2q4zp2gzl9nuackln3/red-bull-yellow-edition-image",
+    "buyLink": "https://blinkit.com/prn/red-bull-energy-drink---the-yellow-edition-(250-ml)/prid/267800?srsltid=AfmBOopk-PJyDsqqUag75_vVsNHae0Ryb5dxwR7iYNaYX_LChCLrhXSV"
+  },
+  {
+    "id": 5,
+    "name": "Red Bull Zero",
+    "flavor": "Zero Calories",
+    "price": 135,
+    "image": "https://img.redbull.com/images/c_limit,w_4000/e_trim/c_limit,w_375/q_auto,f_auto/redbullcom/2024/5/31/eybnzphwwit6y9l3gtwx/red-bull-red-edition-image",
+    "buyLink": "https://blinkit.com/prn/red-bull-energy-drink-the-red-edition-250-ml/prid/479532"
+  }
+]
